@@ -48,7 +48,7 @@
 | 3 | [Знакомство с PyTorch](https://www.youtube.com/watch?v=WlwfB6bCdlw) | — | целиком | `03/` ✅ |
 | 4 | [Подготовка данных ч.1. Dataset и DataLoader](https://www.youtube.com/watch?v=pm_hLYigX0c) | 9:12 | целиком (теория) | `04/` |
 | 5 | [Подготовка данных ч.2. Dataset и DataLoader](https://www.youtube.com/watch?v=ztTlRgwdhkU) | 16:20 | **кусками** | `05/` |
-| 6 | [Подготовка данных ч.3. Dataset и DataLoader](https://www.youtube.com/watch?v=GKRZAflTnQI) | 7:47 | **кусками** | |
+| 6 | [Подготовка данных ч.3. Dataset и DataLoader](https://www.youtube.com/watch?v=GKRZAflTnQI) | 7:47 | **кусками** | `06/` ✅ |
 | 7 | [Трансформация данных. Transforms и V2](https://www.youtube.com/watch?v=9ZnQch_O6xE) | 12:32 | целиком | |
 | 8 | [Функции активации, функции потерь и др.](https://www.youtube.com/watch?v=PARx85j3W2M) | 13:38 | целиком | |
 | 9 | [Классы для создания нейросетей](https://www.youtube.com/watch?v=cCg2mc-O47k) | 13:32 | **кусками** | |
