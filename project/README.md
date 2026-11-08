@@ -113,7 +113,7 @@ Test трогаем **один раз в самом конце** (видео 14)
 | Видео 11 | цикл train → val (CE/MSE, accuracy, история) | есть |
 | Видео 12 | `StepLR` на квадратах (+ `ReduceLROnPlateau` в тренажёре `12/`) | есть |
 | Видео 13 | `torch.save(state_dict)` лучших весов по val (+ load) | есть |
-| Видео 14 | EarlyStopping и финальный test | впереди |
+| Видео 14 | EarlyStopping (`patience`) + test один раз на best | есть |
 
 ## Как запускать
 
