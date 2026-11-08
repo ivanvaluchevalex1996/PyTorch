@@ -54,7 +54,7 @@
 | 9 | [Классы для создания нейросетей](https://www.youtube.com/watch?v=cCg2mc-O47k) | 13:32 | **кусками** | `09/` ✅ |
 | 10 | [Создание нейросетей](https://www.youtube.com/watch?v=YiatESITMAg) | 11:23 | **кусками** | `10/` ✅ |
 | 11 | [Создание цикла обучения](https://www.youtube.com/watch?v=QZ-vKDAaThY) | 19:56 | **кусками** | `11/` ✅ |
-| 12 | [Скорость обучения. LR_Scheduler](https://www.youtube.com/watch?v=oWevpnv3RI0) | 15:25 | целиком | |
+| 12 | [Скорость обучения. LR_Scheduler](https://www.youtube.com/watch?v=oWevpnv3RI0) | 15:25 | целиком | `12/` ✅ |
 | 13 | [Сохранение и загрузка модели. save и load](https://www.youtube.com/watch?v=gVyK6Riky20) | 16:20 | **кусками** | |
 | 14 | [EarlyStopping. Тестирование модели](https://www.youtube.com/watch?v=ctFMYYVj6ZA) | 15:50 | **кусками** | |
 
@@ -141,7 +141,7 @@
 | **9** | **`09/`** ✅ | `Sequential`, свой `nn.Module`, несколько входов/выходов, `ModuleList` / `ModuleDict` | [`d.4.1`](../../все%20мои%20конспекты%20в%20ynote/d.Машинное%20обучение/d.4%20Deep%20Learning/d.4.1%20Полносвязные%20нейронные%20сети.md) **§5–7**, **§8**; карта в intro `09/` |
 | **10** | **`10/`** ✅ | только новое: `state_dict`, `parameters`→Adam, `train`/`eval`, CE/MSE+Adam (без дубля классов из 09) | [`d.4.1`](../../все%20мои%20конспекты%20в%20ynote/d.Машинное%20обучение/d.4%20Deep%20Learning/d.4.1%20Полносвязные%20нейронные%20сети.md) **§10**, **§12**; классы — `09/` |
 | **11** | **`11/`** ✅ | эпоха: train (`zero_grad→backward→step`) → val (`eval`+`no_grad`); accuracy; история | [`d.4.1`](../../все%20мои%20конспекты%20в%20ynote/d.Машинное%20обучение/d.4%20Deep%20Learning/d.4.1%20Полносвязные%20нейронные%20сети.md) **§11**; метрики — `08/` |
-| 12 | (будет) | lr, scheduler, Adam | [`d.4.2`](../../все%20мои%20конспекты%20в%20ynote/d.Машинное%20обучение/d.4%20Deep%20Learning/d.4.2%20Градиентная%20оптимизация.md) |
+| **12** | **`12/`** ✅ | `StepLR` / `MultiStepLR` / `ExponentialLR` / `ReduceLROnPlateau`; `scheduler.step` раз в эпоху | [`d.4.2`](../../все%20мои%20конспекты%20в%20ynote/d.Машинное%20обучение/d.4%20Deep%20Learning/d.4.2%20Градиентная%20оптимизация.md) **§2.6** |
 | 14–16 | (будет) | early stop, Dropout, BatchNorm | [`d.4.3`](../../все%20мои%20конспекты%20в%20ynote/d.Машинное%20обучение/d.4%20Deep%20Learning/d.4.3%20Регуляризация%20в%20Deep%20Learning/d.4.3%20Регуляризация%20в%20Deep%20Learning.md) |
 | проект | `project/fashion_mnist.ipynb` | те же идеи на FashionMNIST + квадраты | те же `d.4.1`–`d.4.3` по мере разделов «Видео N» |
 
