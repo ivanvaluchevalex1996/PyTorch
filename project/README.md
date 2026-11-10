@@ -117,6 +117,7 @@ Test трогаем **один раз в самом конце** (видео 14)
 | Видео 15 | `FashionMLPDrop`: Dropout после ReLU + `train`/`eval` | есть |
 | Видео 16 | `FashionMLPBN`: BatchNorm1d + `bias=False` + `train`/`eval` | есть |
 | Видео 17–23 | весь CNN-блок — **пропуск**; обзор [`../17-23_cnn/17-23_cnn_обзор.md`](../17-23_cnn/17-23_cnn_обзор.md) | пропуск |
+| **24 AMP** (ментор) | `autocast` + `GradScaler` — [`../24_amp/`](../24_amp/24_amp.ipynb) | тренажёр отдельно, не в fashion |
 
 ## Как запускать
 
