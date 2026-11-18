@@ -2,7 +2,9 @@
 
 Плейлист: [Нейронные сети с PyTorch: без формул, только практика](https://www.youtube.com/playlist?list=PLBP4Q3FNSLK2rtGPBsK-aMAetYj-8yg_1)
 
-Папка: `учеба мл/pytorch/pytorch дубинин/` (видео Дубинина). Практика handbook на сайте — гл.38 [`handbook_gl38`](../pytorch%20handbook/handbook_gl38/README.md), гл.39 [`handbook_gl39`](../pytorch%20handbook/handbook_gl39/README.md).
+Папка: `учеба мл/pytorch/pytorch дубинин/` (видео Дубинина). **Субтитры / поиск по видео 3–23:** [`subtitles/INDEX.md`](subtitles/INDEX.md) (транскрипты ru, можно спросить ассистента «в каком видео …»). Пересобрать: `py -3 subtitles/build_transcripts.py`.
+
+Практика handbook на сайте — гл.38 [`handbook_gl38`](../pytorch%20handbook/handbook_gl38/README.md), гл.39 [`handbook_gl39`](../pytorch%20handbook/handbook_gl39/README.md).
 
 ---
 
