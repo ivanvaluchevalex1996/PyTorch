@@ -1,5 +1,6 @@
 {
   "notebook.markup.fontSize": 14,
+  "notebook.output.fontSize": 14,
   "notebook.lineHeight": 20,
   "markdown.preview.fontSize": 14,
   "markdown.previewStyles": [
