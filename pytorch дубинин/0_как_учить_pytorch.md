@@ -79,7 +79,7 @@
 | 20 | [VGG](https://www.youtube.com/watch?v=ss1oHfTeqic) | 17:01 | **пропуск*** | см. [`17-23_cnn`](17-23_cnn/17-23_cnn_обзор.md) |
 | 21 | [ResNet](https://www.youtube.com/watch?v=sHpw-8uWZGw) | 23:16 | **пропуск*** | см. там же |
 | 22 | [U-Net](https://www.youtube.com/watch?v=atjA2iEpk1c) | 7:34 | **пропуск*** | см. там же |
-| 23 | [Transfer Learning](https://www.youtube.com/watch?v=M0iB56Vwy64) | 16:17 | **пропуск*** (идея в обзоре §8) | см. там же |
+| 23 | [Transfer Learning](https://www.youtube.com/watch?v=M0iB56Vwy64) | 16:17 | **пропуск*** или **§6 d.5.42** (Hymenoptera) | [d.5.42 practice](../../conspects_ml/d.Машинное%20обучение/d.5%20advanced%20Deep%20Learning/d.5.42%20Transfer%20learning/practice/README.md) · обзор §8 |
 
 ### Блок 4. После курса Дубинина (ментор)
 
